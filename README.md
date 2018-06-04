@@ -7,3 +7,9 @@ Many domains are supported:
 - image caption
 - reID
 - ... 
+
+Many deep learning tools are supported:
+- pytorch (master branch)
+- mxnet ([mx branch](https://github.com/DuinoDu/meta.code/tree/mx))
+- gluon ([gluon branch](https://github.com/DuinoDu/meta.code/tree/gluon))
+- tensorflow ([tf branch](https://github.com/DuinoDu/meta.code/tree/tf))
